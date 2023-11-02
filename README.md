@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+##
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanfariasz&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanfariasz&layout=compact&theme=dark)
+
+##
+
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
